@@ -1,6 +1,6 @@
 # DerLev
 
-Hello, my name is DerLev. I convert pizza to code, but only when I want.
+Hello, my name is DerLev. I code for fun.
 
 ## Repositories
 - [DerLevBot](https://github.com/DerLev/DerLevBot)
