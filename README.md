@@ -1,9 +1,9 @@
-# DerLev
-
-Hello, my name is DerLev. I code for fun.
+# Hi there 👋 my name is DerLev
 
 ## Repositories
-- [DerLevBot](https://github.com/DerLev/DerLevBot)
+- [NUXT.JS-SLF](https://github.com/DerLev/NUXT.JS-SLF)
+- [electron-api-dashboard-app](https://github.com/DerLev/electron-api-dashboard-app)
+- [electron-react-app](https://github.com/DerLev/electron-react-app)
 
 ## Links
 
